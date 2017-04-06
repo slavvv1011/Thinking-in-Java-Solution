@@ -4,7 +4,7 @@ and view it with your Web browser.
 
 Chapter 03 Exercise 15
 
-To open javadoc files of Documentation3a.java,
+To open javadoc files of Ch03ex02.java,
 please open the following links in your Web browser:
 https://slavvv1011.github.io/Ch03Ex15Javadoc/index.html
 
