@@ -4,7 +4,7 @@ Chapter 03 Exercise 14
 
 To open javadoc files of Documentation3a.java,
 please open the following links in your Web browser:
-file:///C:/Users/Przemek/Documents/GitHub/slavvv1011.github.io/Ch03Ex14Javadoc/index.html
+https://slavvv1011.github.io/Ch03Ex14Javadoc/index.html
 
 
 To see javadoc directories in my repository you can open the following links in your Web browser:
