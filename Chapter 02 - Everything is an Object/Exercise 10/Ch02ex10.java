@@ -1,6 +1,6 @@
-package ch03ex10;
+package ch02ex10;
 
-public class Ch03ex10 {
+public class Ch02ex10 {
 
 	public static void main(String[] args) {
 		System.out.println("args[0] = " + args[0]);
