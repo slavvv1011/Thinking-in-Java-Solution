@@ -1,4 +1,4 @@
-package ch03ex14;
+package ch02ex14;
 /**
 * You can <em>even</em> insert a list:
 * <ol>

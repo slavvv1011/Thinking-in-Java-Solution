@@ -1,10 +1,10 @@
-package ch03ex15;
+package ch02ex15;
 
 /**
  * public class with main method
  */
 
-public class Ch03ex02 {
+public class Ch02ex02 {
 
 	/**
 	 * main method here
