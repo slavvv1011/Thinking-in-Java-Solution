@@ -1,11 +1,11 @@
-package ch03ex03;
+package ch02ex03;
 
 class ATypeName {
 	int i;
 	char c;
 }
 
-public class Ch03ex03 {
+public class Ch02ex03 {
 
 	public static void main(String[] args) {
 		ATypeName obj = new ATypeName();
