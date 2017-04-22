@@ -1,4 +1,4 @@
-package ch03ex16;
+package ch02ex16;
 import static net.mindview.util.Print.*;
 
 /** that class creates type Tree
