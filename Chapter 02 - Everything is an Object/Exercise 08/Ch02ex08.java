@@ -1,4 +1,4 @@
-package ch03ex08;
+package ch02ex08;
 
 class StaticTest {
 	static int i = 47;
@@ -8,7 +8,7 @@ class StaticFun {
 	static void incr() { StaticTest.i++; }
 }
 
-public class Ch03ex08 {
+public class Ch02ex08 {
 
 	public static void main(String[] args) {
 		System.out.println("StaticTest.i = " + StaticTest.i);
