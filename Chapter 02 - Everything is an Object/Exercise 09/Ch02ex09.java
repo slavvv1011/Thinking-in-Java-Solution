@@ -1,6 +1,6 @@
-package ch03ex09;
+package ch02ex09;
 
-public class Ch03ex09 {
+public class Ch02ex09 {
 
 	public static void main(String[] args) {
 		boolean bln = true;
