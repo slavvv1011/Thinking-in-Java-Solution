@@ -1,7 +1,7 @@
 Run Documentation1.java, Documentation2.java and Documentation3.java through Javadoc.
 Verify the resulting documentation with your Web browser.
 
-Chapter 03 Exercise 13
+Chapter 02 Exercise 13
 
 To open javadoc files of Documentation1.java, Documentation2.java and Documentation3.java,
 please open the following links in your Web browser:

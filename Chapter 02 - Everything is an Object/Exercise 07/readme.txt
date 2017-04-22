@@ -1,3 +1,3 @@
 Turn the StaticFun code fragments into a working program.
 
-Chapter 03 Exercise 07
+Chapter 02 Exercise 07

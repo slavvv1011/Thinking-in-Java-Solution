@@ -1,6 +1,6 @@
 Add an HTML list of items to the documentation in the previous exercise.
 
-Chapter 03 Exercise 14
+Chapter 02 Exercise 14
 
 To open javadoc files of Documentation3a.java,
 please open the following links in your Web browser:

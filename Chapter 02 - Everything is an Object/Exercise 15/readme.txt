@@ -2,7 +2,7 @@ Take the program in Exercise 2 and add comment documentation to it.
 Extract this comment documentation into an HTML file using Javadoc
 and view it with your Web browser.
 
-Chapter 03 Exercise 15
+Chapter 02 Exercise 15
 
 To open javadoc files of Ch03ex02.java,
 please open the following links in your Web browser:
