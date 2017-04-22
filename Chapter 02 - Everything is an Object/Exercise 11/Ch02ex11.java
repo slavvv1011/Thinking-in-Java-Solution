@@ -1,6 +1,6 @@
-package ch03ex11;
+package ch02ex11;
 
-public class Ch03ex11 {
+public class Ch02ex11 {
 	public static void main(String[] args) {
 		AllTheColorsOfTheRainbow rainbow = new AllTheColorsOfTheRainbow();
 		System.out.println("rainbow.ColorNumber = " + rainbow.ColorNumber);
