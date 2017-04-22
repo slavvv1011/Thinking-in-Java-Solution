@@ -1,5 +1,5 @@
 
-package ch03ex05;
+package ch02ex05;
 
 class DataOnly {
 	int i;
@@ -7,7 +7,7 @@ class DataOnly {
 	boolean b;
 }
 
-public class Ch03ex05 {
+public class Ch02ex05 {
 	public static void main(String[] args) {
 		DataOnly obj = new DataOnly();
 		obj.i = 100;
