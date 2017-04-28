@@ -19,3 +19,23 @@ public class Ch03ex14 {
 	}
 
 }
+
+/* Output:
+first, second :
+a == b : false
+a.equals(b) : false
+b.equals(a) : false
+a != b : true
+
+third, third :
+a == b : true
+a.equals(b) : true
+b.equals(a) : true
+a != b : false
+
+fourth, FOURTH :
+a == b : false
+a.equals(b) : false
+b.equals(a) : false
+a != b : true
+*/
