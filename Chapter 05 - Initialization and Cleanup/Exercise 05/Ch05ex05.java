@@ -3,19 +3,28 @@ import static slavvv1011.Print.*;
 
 class Dog{
     void bark(){
-        System.out.println("Ow !");
+        print("Dog is quiet...");
     }
-    void bark(int i){
-    	System.out.println("Dog barks " + i + " times");
+    void bark(byte b) {
+    	print("bbbbark !");
     }
     void bark(char c){
-    	System.out.println("Dog makes a strange sound: " + c + "...");
+    	print("cccccc !");
     }
-    void bark(int i,char c){
-    	print("Dog barks " + i + " times and makes a strange sound: " + c + "...");
+    void bark(double d){
+    	print("dddddd !");
+    }
+    void bark(float f){
+    	print("ffffff !");
+    }
+    void bark(int i){
+    	print("iiiiiii !");
     }
     void bark(long l){
-    	System.out.println("Dog is sleeping for sooooo long...");
+    	print("llllll !");
+    }
+    void bark(short s){
+    	print("ssssss !");
     }
 }
 
@@ -23,19 +32,27 @@ public class Ch05ex05 {
 
     public static void main(String[] args) {
        Dog dog1 = new Dog();
+       byte b = 0;
+       char c = 'x';
+       short s = 0;
        dog1.bark();
-       dog1.bark(5);
-       dog1.bark('z');
-       dog1.bark(8,'s');
-       dog1.bark(3L);
+       dog1.bark((byte)b);
+       dog1.bark((char)c);
+       dog1.bark(1.0);
+       dog1.bark(100.0f);
+       dog1.bark(100);
+       dog1.bark(100L);
+       dog1.bark((short)s);
     }
-    
 }
 
 /*
-Ow !
-Dog barks 5 times
-Dog makes a strange sound: z...
-Dog barks 8 times and makes a strange sound: s...
-Dog is sleeping for sooooo long...
+Dog is quiet...
+bbbbark !
+cccccc !
+dddddd !
+ffffff !
+iiiiiii !
+llllll !
+ssssss !
 */
