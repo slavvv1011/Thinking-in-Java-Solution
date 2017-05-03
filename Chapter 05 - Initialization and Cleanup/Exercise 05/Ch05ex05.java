@@ -46,7 +46,7 @@ public class Ch05ex05 {
     }
 }
 
-/*
+/* Output:
 Dog is quiet...
 bbbbark !
 cccccc !
